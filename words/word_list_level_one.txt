@@ -1,0 +1,12 @@
+ant
+bee
+star
+this
+code
+fork
+work
+wrap
+cow
+dog
+cat
+last
